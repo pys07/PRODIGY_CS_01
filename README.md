@@ -74,5 +74,5 @@ PRODIGY_CS_01/
 
 ## ✍️ Author
 
-Made with ❤️ by [Payal Samant](https://github.com/pys07)
+Made with ♥ by [Payal Samant](https://github.com/pys07)
 
