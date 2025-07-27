@@ -71,6 +71,3 @@ PRODIGY_CS_01/
 
 Made with ❤️ by [Payal Samant](https://github.com/pys07)
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
