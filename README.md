@@ -59,6 +59,11 @@ Result (encrypted message):
 khoor.zruog
 ```
 
+[▶️ Watch Demo](demo/caesar_cipher.mp4)
+
+
+---
+
 ## 📂 Project Structure
 
 ```
